@@ -117,4 +117,6 @@ Please cite appropriately when using any material from this repository.
 
 ## Challenge
 
-#30DayMapChallenge
+![30DayMapChallenge 2026](Catalogue/30DayMapChallenge.jpg)
+
+My contribution to the #30DayMapChallenge 2026 focusing on fisheries, water resources, biodiversity, climate, and environmental change in Niger.
